@@ -4,4 +4,4 @@ coffee
 choclates
 icecream
 flour
-bingo
+cool drinks
